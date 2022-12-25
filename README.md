@@ -25,10 +25,10 @@ The Pirate Game is an activity where each person in the game places a set of sym
 
 ## Items ##
 
-### Numbers ✔️ ###
+### Numbers ###
 These just add a certain amount of points to your overall score.
 
-### Grinch ✔️###
+### Grinch ✔️ ##
 Rob someone's points
 
 ### Pudding ✔️ ###
