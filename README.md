@@ -25,22 +25,22 @@ The Pirate Game is an activity where each person in the game places a set of sym
 
 ## Items ##
 
-### Numbers ###
+### Numbers ✔️ ###
 These just add a certain amount of points to your overall score.
 
-### Grinch ###
+### Grinch ✔️###
 Rob someone's points
 
-### Pudding ###
+### Pudding ✔️ ###
 Kill someone (not literally, just reset their points).
 
-### Snowball ###
+### Snowball ✔️ ###
 Wipe out a row's scores (works only in a classroom with many students playing).
 
-### Mistletoe ###
+### Mistletoe ✔️ ###
 Kiss and swap scores.
 
-### Christmas Tree ###
+### Christmas Tree ✔️ ###
 Choose next square.
 
 ### Elf ###
