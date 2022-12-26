@@ -60,4 +60,6 @@ Bank your score (it is now safe for the rest of the game).
 
 ## Credits ##
 
+Everything is coded by Alex lo Storto
+
 Licensed under the MIT License.
