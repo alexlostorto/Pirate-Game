@@ -62,8 +62,8 @@ Double your score.
 Bank your score (it is now safe for the rest of the game).
 
 ## Gameplay
-<p align="center"><img width="100%" src="https://github.com/alexlostorto/Spanish_Spelling_Bee/raw/main/git_images/pirate-game_main_menu.PNG" alt="lang image here" /></p>
-<p align="center"><img width="100%" src="https://github.com/alexlostorto/Spanish_Spelling_Bee/raw/main/git_images/pirate-game_gameplay.PNG" alt="lang image here" /></p>
+<p align="center"><img width="100%" src="https://github.com/alexlostorto/Pirate-Game/raw/main/git_images/pirate-game_main_menu.PNG" alt="lang image here" /></p>
+<p align="center"><img width="100%" src="https://github.com/alexlostorto/Pirate-Game/raw/main/git_images/pirate-game_gameplay.PNG" alt="lang image here" /></p>
 
 ## Credits 
 
