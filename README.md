@@ -2,6 +2,11 @@
 
 A multiplayer game coded in Pygame (my first time ever using Pygame) based on the school game Pirate Game - Christmas Version. 
 
+## Set-up
+```
+pip install pygame
+```
+
 ## How to Play 
 
 To play with someone else, your opponent will either have to run this game on their device or print the Pirate Game on a piece of paper (that is what I did).
@@ -23,40 +28,44 @@ The Pirate Game is an activity where each person in the game places a set of sym
 
 ## Items 
 
-### Numbers ###
+### Numbers 
 These just add a certain amount of points to your overall score.
 
-### Grinch ✔️ ##
+### Grinch ✔️ 
 Rob someone's points
 
-### Pudding ✔️ ###
+### Pudding ✔️ 
 Kill someone (not literally, just reset their points).
 
-### Snowball ✔️ ###
+### Snowball ✔️ 
 Wipe out a row's scores (works only in a classroom with many students playing).
 
-### Mistletoe ✔️ ###
+### Mistletoe ✔️ 
 Kiss and swap scores.
 
-### Christmas Tree ✔️ ###
+### Christmas Tree ✔️ 
 Choose next square.
 
-### Elf ###
+### Elf 
 Blocks an attack (works with ROB/STEAL, KILL, GIFT, SWAP). The other player can use an elf to block an attack that you have reflected to them.
 
-### Bauble ###
+### Bauble 
 Reflects an attack (works with ROB/STEAL, KILL, GIFT, SWAP). The other player can also use a bauble to reflect an attack that you have reflected to them.
 
-### Burnt Turkey ###
+### Burnt Turkey 
 YOU go to zero.
 
-### Cracker ###
+### Cracker 
 Double your score.
 
-### Christmas Hat ###
+### Christmas Hat 
 Bank your score (it is now safe for the rest of the game).
 
-## Credits ##
+## Gameplay
+<p align="center"><img width="100%" src="https://github.com/alexlostorto/Spanish_Spelling_Bee/raw/main/git_images/pirate-game_main_menu.PNG" alt="lang image here" /></p>
+<p align="center"><img width="100%" src="https://github.com/alexlostorto/Spanish_Spelling_Bee/raw/main/git_images/pirate-game_gameplay.PNG" alt="lang image here" /></p>
+
+## Credits 
 
 Everything is coded by Alex lo Storto
 
