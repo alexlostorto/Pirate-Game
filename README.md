@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alexlostorto/Pirate-Game/raw/main/git_images/Pirate_Game.PNG" alt="lang image here" /></p>
+<p align="center"><img width="100%" src="https://github.com/alexlostorto/Pirate-Game/raw/main/git_images/Pirate_Game.PNG" alt="lang image here" /></p>
 
 A multiplayer game coded in Pygame (my first time ever using Pygame) based on the school game Pirate Game - Christmas Version. 
 
